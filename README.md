@@ -61,6 +61,7 @@ GGML_MODEL=""
     ![Image text](./image/RAG_photo.png)
 
 # TODO
+- [ ] token streaming
 - [ ] 建立一個更換 domain 資料就可以做不同應用的 LLM 流程
 - [ ] 如何讓模型更小
 - [ ] 提供可以隨時更換 LLM model 的流程
